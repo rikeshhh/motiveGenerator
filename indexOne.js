@@ -14,8 +14,8 @@ const quotes =[{
     quote:`"I love you homie!"`,
     person:`Rikesh Shrestha`
 },{
-    quote:`"We cannot solve problems with the kind of thinking we employed when we came up with them."`,
-    person:`Albert Einstein`
+    quote:`"Nothing can bring you peace but yourself."`,
+    person:`Ralph Waldo Emerson`
 },{
     quote:`"Sometimes you have to stand alone just to make sure you still can."`,
     person:`Anonymous`
@@ -23,7 +23,7 @@ const quotes =[{
     quote:`"I never dreamed about success. I worked for it."`,
     person:`Estée Lauder`
 },{
-    quote:`"Don’t let yesterday take up too much of today."`,
+    quote:`"Don't let yesterday take up too much of today."`,
     person:`Will Rogers`
 },
 {
