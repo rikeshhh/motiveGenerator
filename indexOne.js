@@ -11,9 +11,43 @@ const quotes =[{
     quote:`"Get busy living or get busy dying."`,
     person:`Stephen King`
 },{
+    quote:`"I love you homie!"`,
+    person:`Rikesh Shrestha`
+},{
+    quote:`"We cannot solve problems with the kind of thinking we employed when we came up with them."`,
+    person:`Albert Einstein`
+},{
+    quote:`"Sometimes you have to stand alone just to make sure you still can."`,
+    person:`Anonymous`
+},{
+    quote:`"I never dreamed about success. I worked for it."`,
+    person:`Estée Lauder`
+},{
+    quote:`"Don’t let yesterday take up too much of today."`,
+    person:`Will Rogers`
+},
+{
     quote:` "You only live once, but if you do it right, once is enough."`,
     person:`Mae West`
-},];
+},
+{
+    quote:` "My opponent is my teacher. My ego is my enemy."`,
+    person:`Rikeshman`
+},
+{
+    quote:` "Learning is a gift, even when pain is your teacher."`,
+    person:`Unknown`
+},
+{
+quote:`"I am a fighting machine with a will of iron"`,
+person: `Jurgen Klopp`
+},
+{
+    quote:`"The best way to find yourself is to lose yourself in the service of others."`,
+    person: `Mahatma Gandhi`
+    },
+    
+];
 btn.addEventListener('click',()=>{
     let random =Math.floor(Math.random()*quotes.length);
     quote.innerText =quotes[random].quote;
